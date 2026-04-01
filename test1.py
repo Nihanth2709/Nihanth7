@@ -1,2 +1,5 @@
-s1 = input("enter a word: ")
-print(s1)
+# calculator with operators
+num1 = int(input("enter the first number: "))
+num2 = int(input("enter the second number: "))
+ope = "string"
+print(ope[-3:-1])
